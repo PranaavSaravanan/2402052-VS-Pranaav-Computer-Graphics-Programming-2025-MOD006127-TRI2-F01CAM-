@@ -1,0 +1,9 @@
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\bin\Debug\midpoint_triangle.exe.config
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\bin\Debug\midpoint_triangle.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\bin\Debug\midpoint_triangle.pdb
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\obj\Debug\midpoint_triangle.csproj.AssemblyReference.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\obj\Debug\midpoint_triangle.Properties.Resources.resources
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\obj\Debug\midpoint_triangle.csproj.GenerateResource.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\obj\Debug\midpoint_triangle.csproj.CoreCompileInputs.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\obj\Debug\midpoint_triangle.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\midpoint_triangle\obj\Debug\midpoint_triangle.pdb

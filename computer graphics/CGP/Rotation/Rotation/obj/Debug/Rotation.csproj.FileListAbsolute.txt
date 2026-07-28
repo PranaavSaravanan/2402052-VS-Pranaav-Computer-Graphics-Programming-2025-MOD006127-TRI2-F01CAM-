@@ -1,0 +1,9 @@
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\obj\Debug\Rotation.csproj.AssemblyReference.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\obj\Debug\Rotation.Properties.Resources.resources
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\obj\Debug\Rotation.csproj.GenerateResource.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\obj\Debug\Rotation.csproj.CoreCompileInputs.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\bin\Debug\Rotation.exe.config
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\bin\Debug\Rotation.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\bin\Debug\Rotation.pdb
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\obj\Debug\Rotation.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\Rotation\Rotation\obj\Debug\Rotation.pdb

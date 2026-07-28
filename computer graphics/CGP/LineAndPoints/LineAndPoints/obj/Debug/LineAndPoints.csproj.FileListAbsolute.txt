@@ -1,0 +1,9 @@
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\bin\Debug\LineAndPoints.exe.config
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\bin\Debug\LineAndPoints.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\bin\Debug\LineAndPoints.pdb
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\obj\Debug\LineAndPoints.csproj.AssemblyReference.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\obj\Debug\LineAndPoints.Properties.Resources.resources
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\obj\Debug\LineAndPoints.csproj.GenerateResource.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\obj\Debug\LineAndPoints.csproj.CoreCompileInputs.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\obj\Debug\LineAndPoints.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\LineAndPoints\LineAndPoints\obj\Debug\LineAndPoints.pdb

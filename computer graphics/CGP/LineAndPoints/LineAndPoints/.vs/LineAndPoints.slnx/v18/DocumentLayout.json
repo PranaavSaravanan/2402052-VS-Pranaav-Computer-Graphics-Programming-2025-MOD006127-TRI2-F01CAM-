@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|c:\\users\\vspra\\onedrive\\desktop\\git\\computer graphics programming\\cgp\\lineandpoints\\lineandpoints\\lineandpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|solutionrelative:lineandpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\lineandpoints.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|solutionrelative:lineandpoints.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\lineandpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A29C6F01-CDEA-4B3A-9F6B-CCC4DF4175DA}|LineAndPoints.csproj|solutionrelative:lineandpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1040,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\Program.cs [Design]",
+              "RelativeToolTip": "Program.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T06:27:01.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LineAndPoints.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\LineAndPoints.Designer.cs",
+              "RelativeDocumentMoniker": "LineAndPoints.Designer.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\LineAndPoints.Designer.cs",
+              "RelativeToolTip": "LineAndPoints.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T06:20:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineAndPoints.cs",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\LineAndPoints.cs",
+              "RelativeDocumentMoniker": "LineAndPoints.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\LineAndPoints.cs",
+              "RelativeToolTip": "LineAndPoints.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T06:20:27.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LineAndPoints.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\LineAndPoints.cs",
+              "RelativeDocumentMoniker": "LineAndPoints.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\LineAndPoints.cs [Design]",
+              "RelativeToolTip": "LineAndPoints.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T06:19:50.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\LineAndPoints\\LineAndPoints\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T06:18:17.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

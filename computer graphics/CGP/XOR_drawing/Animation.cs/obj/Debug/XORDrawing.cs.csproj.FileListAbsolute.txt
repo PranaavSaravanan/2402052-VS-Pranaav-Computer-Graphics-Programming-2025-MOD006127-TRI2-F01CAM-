@@ -1,0 +1,9 @@
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\obj\Debug\XORDrawing.cs.csproj.AssemblyReference.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\obj\Debug\Animation.cs.Properties.Resources.resources
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\obj\Debug\XORDrawing.cs.csproj.GenerateResource.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\obj\Debug\XORDrawing.cs.csproj.CoreCompileInputs.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\bin\Debug\Animation.cs.exe.config
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\bin\Debug\Animation.cs.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\bin\Debug\Animation.cs.pdb
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\obj\Debug\Animation.cs.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\XOR_drawing\Animation.cs\obj\Debug\Animation.cs.pdb

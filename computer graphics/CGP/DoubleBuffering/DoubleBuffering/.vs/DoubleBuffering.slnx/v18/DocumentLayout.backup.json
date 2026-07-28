@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\flicker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|solutionrelative:flicker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|c:\\users\\vspra\\onedrive\\desktop\\git\\computer graphics programming\\cgp\\doublebuffering\\doublebuffering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|c:\\users\\vspra\\onedrive\\desktop\\git\\computer graphics programming\\cgp\\doublebuffering\\doublebuffering\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|solutionrelative:properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\flicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|solutionrelative:flicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\flicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2D30535-2AEA-43FD-9F45-1C994F2C2038}|DoubleBuffering.csproj|solutionrelative:flicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1040,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flicker.cs",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Flicker.cs",
+              "RelativeDocumentMoniker": "Flicker.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Flicker.cs",
+              "RelativeToolTip": "Flicker.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:44:22.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAACMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-07-28T03:03:30.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:46:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flicker.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Flicker.Designer.cs",
+              "RelativeDocumentMoniker": "Flicker.Designer.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Flicker.Designer.cs",
+              "RelativeToolTip": "Flicker.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:44:35.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flicker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Flicker.cs",
+              "RelativeDocumentMoniker": "Flicker.cs",
+              "ToolTip": "C:\\Users\\vspra\\OneDrive\\Desktop\\GIT\\computer graphics programming\\CGP\\DoubleBuffering\\DoubleBuffering\\Flicker.cs [Design]",
+              "RelativeToolTip": "Flicker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:42:11.984Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

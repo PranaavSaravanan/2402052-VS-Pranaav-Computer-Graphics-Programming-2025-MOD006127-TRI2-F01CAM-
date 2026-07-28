@@ -1,0 +1,9 @@
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\bin\Debug\CGP.exe.config
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\bin\Debug\CGP.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\bin\Debug\CGP.pdb
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\obj\Debug\CGP.csproj.AssemblyReference.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\obj\Debug\CGP.Properties.Resources.resources
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\obj\Debug\CGP.csproj.GenerateResource.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\obj\Debug\CGP.csproj.CoreCompileInputs.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\obj\Debug\CGP.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\CGP\obj\Debug\CGP.pdb

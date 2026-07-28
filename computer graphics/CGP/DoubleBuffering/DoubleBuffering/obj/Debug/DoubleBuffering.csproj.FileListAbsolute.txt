@@ -1,0 +1,9 @@
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\bin\Debug\DoubleBuffering.exe.config
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\bin\Debug\DoubleBuffering.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\bin\Debug\DoubleBuffering.pdb
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.csproj.AssemblyReference.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.Properties.Resources.resources
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.csproj.GenerateResource.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.csproj.CoreCompileInputs.cache
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.exe
+C:\Users\vspra\OneDrive\Desktop\GIT\computer graphics programming\CGP\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.pdb
