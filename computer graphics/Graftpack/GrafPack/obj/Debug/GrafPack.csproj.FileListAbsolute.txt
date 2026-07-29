@@ -1,0 +1,9 @@
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\bin\Debug\GraftPack.exe.config
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\bin\Debug\GraftPack.exe
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\bin\Debug\GraftPack.pdb
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\obj\Debug\GrafPack.csproj.AssemblyReference.cache
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\obj\Debug\GraftPack.Properties.Resources.resources
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\obj\Debug\GrafPack.csproj.GenerateResource.cache
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\obj\Debug\GrafPack.csproj.CoreCompileInputs.cache
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\obj\Debug\GraftPack.exe
+C:\Users\vspra\OneDrive\Desktop\2402052-VS-Pranaav-Computer-Graphics-Programming-2025-MOD006127-TRI2-F01CAM-\computer graphics\Graftpack\GrafPack\obj\Debug\GraftPack.pdb
